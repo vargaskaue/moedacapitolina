@@ -1,5 +1,10 @@
 # Moeda Capitolina 🪙
 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![GitHub Release](https://img.shields.io/github/v/release/vargaskaue/moedacapitolina?color=success)
+
 **Moeda Capitolina** é o componente digital do jogo de tabuleiro phygital **O Dilema de Casmurro**. Este aplicativo atua como o motor de sorte (RNG) para decisões cruciais durante a partida, unindo a imersão da literatura machadiana com a tecnologia móvel.
 
 ## 🎭 O Dilema de Casmurro
@@ -18,7 +23,7 @@ Inspirado na obra *Dom Casmurro*, de Machado de Assis, o jogo coloca os jogadore
 
 ## 📥 Instalação
 Para instalar o aplicativo no seu dispositivo Android:
-1. Vá até a seção [Releases](https://github.com/kaue-sito/moeda-capitolina/releases).
+1. Vá até a seção [Releases](https://github.com/vargaskaue/moedacapitolina/releases).
 2. Baixe o arquivo `.apk` da versão mais recente.
 3. No seu celular, permita a instalação de fontes desconhecidas e execute o arquivo.
 
