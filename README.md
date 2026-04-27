@@ -14,6 +14,12 @@
 ## 🎭 O Dilema de Casmurro
 Inspirado na obra *Dom Casmurro*, de Machado de Assis, o jogo coloca os jogadores frente ao eterno impasse entre a dúvida e a certeza. A Moeda Capitolina é utilizada sempre que o tabuleiro ou as cartas de evento exigem um veredito da sorte.
 
+<div align="center">
+
+[Conheça as regras e o tabuleiro de O Dilema de Casmurro clicando aqui](https://github.com/slgamedesign/dilemadecasmurro)
+
+</div>
+
 ## ✨ Funcionalidades
 - **Física de Lançamento:** Animação de flip 3D com simulação de altura e queda.
 - **Feedback Háptico:** Vibração sincronizada com o impacto da moeda na "mesa".
