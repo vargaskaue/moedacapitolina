@@ -31,6 +31,14 @@ Para instalar o aplicativo no seu dispositivo Android:
 2. Baixe o arquivo `.apk` da versão mais recente.
 3. No seu celular, permita a instalação de fontes desconhecidas e execute o arquivo.
 
+## 🚀 Próximos Passos (Roadmap)
+Aqui estão as futuras atualizações planejadas para a Moeda Capitolina:
+
+- [x] Lançamento da versão Pre-Alpha com física de giro.
+- [x] Adicionar feedback háptico (vibração).
+- [ ] Implementar efeito sonoro do metal batendo na mesa.
+- [ ] Implementar Sobre no app (AlertDialog).
+
 ---
 **Desenvolvido por Kauê Sitó.**
 Projetado como parte da pesquisa em Letras e Tecnologias Educacionais.
