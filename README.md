@@ -1,9 +1,13 @@
-# Moeda Capitolina 🪙
+<div align="center">
+
+# Moeda Capitolina
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-![GitHub Release](https://img.shields.io/github/v/release/vargaskaue/moedacapitolina?color=success)
+![GitHub Release](https://img.shields.io/github/v/release/vargaskaue/moedacapitolina?include_prereleases&color=success)
+
+</div>
 
 **Moeda Capitolina** é o componente digital do jogo de tabuleiro phygital **O Dilema de Casmurro**. Este aplicativo atua como o motor de sorte (RNG) para decisões cruciais durante a partida, unindo a imersão da literatura machadiana com a tecnologia móvel.
 
