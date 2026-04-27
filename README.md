@@ -42,8 +42,9 @@ Aqui estão as futuras atualizações planejadas para a Moeda Capitolina:
 
 - [x] Lançamento da versão Pre-Alpha com física de giro.
 - [x] Adicionar feedback háptico (vibração).
-- [ ] Implementar efeito sonoro do metal batendo na mesa.
-- [ ] Implementar Sobre no app (AlertDialog).
+- [x] Implementar efeito sonoro do metal batendo na mesa.
+- [x] Implementar Sobre no app (AlertDialog).
+- [ ] Atualização de layout.
 
 ---
 **Desenvolvido por Kauê Sitó.**
